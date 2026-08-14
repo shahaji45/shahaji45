@@ -119,7 +119,7 @@ Power BI      ████████░░░░░░░░░░░░
 
 * 💼 LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/)
 * 📧 Email: Add your email
-* 🐙 GitHub: [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+* 🐙 GitHub: [YOUR_GITHUB_USERNAME]([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/shahaji45))
 
 ---
 
