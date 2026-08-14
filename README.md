@@ -117,7 +117,7 @@ Power BI      ████████░░░░░░░░░░░░
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [Add your LinkedIn profile]([https://www.linkedin.com/](https://www.linkedin.com/in/shahaji-shinde-5ba694291/))
+* 💼 LinkedIn: ([https://www.linkedin.com/](https://www.linkedin.com/in/shahaji-shinde-5ba694291/))
 * 📧 Email: shahaji724@gmail.com
 * 🐙 GitHub: ([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/shahaji45))
 
